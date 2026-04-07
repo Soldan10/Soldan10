@@ -17,15 +17,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Araraquara. Sou
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Minhas Estatísticas:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soldan10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldan10&layout=compact&theme=dracula" />
-</p>
-
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/giovana-soldan-oliver](https://www.linkedin.com/in/giovana-soldan-oliver/)
 - **Email:** soldangiovana@gmail.com
