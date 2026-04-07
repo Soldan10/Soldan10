@@ -19,10 +19,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Araraquara. Sou
 
 ### 📊 Minhas Estatísticas:
 
-![Estatísticas de Soldan10](https://github-readme-stats.vercel.app/api?username=Soldan10&show_icons=true&theme=dracula)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Soldan10&layout=compact&theme=dracula)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soldan10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de Soldan10" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldan10&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="150">
+</p>
 
 ### 📫 Como me encontrar:
 - **LinkedIn:** [linkedin.com/in/giovana-soldan-oliver](https://www.linkedin.com/in/giovana-soldan-oliver/)
