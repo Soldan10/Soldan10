@@ -19,7 +19,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Araraquara. Sou
 
 ### 📊 Minhas Estatísticas:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Soldan10&show_icons=true&theme=dracula)
+![Estatísticas de Soldan10](https://github-readme-stats.vercel.app/api?username=Soldan10&show_icons=true&theme=dracula)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Soldan10&layout=compact&theme=dracula)
 
