@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Giovana! 👋
 
-<!--
-**Soldan10/Soldan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Araraquara. Sou apaixonada por resolver problemas através do código e estou constantemente expandindo meu toolkit de linguagens.
 
-Here are some ideas to get you started:
+### 🛠️ No que estou trabalhando agora:
+- 🐍 Aperfeiçoando projetos em **Python** com interfaces modernas e **SQL**.
+- 🏗️ Mergulhando fundo na lógica e estrutura de dados com **C e C++**.
+- ☕ Explorando o ecossistema **Java** e **C#**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Principais Projetos:
+- [**Sistema de Fila para Clínicas**](link-do-seu-repositorio-aqui): Um gerenciador de pacientes com prioridades, feito em Python (CustomTkinter) e SQLite.
+
+### 📊 Minhas Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [linkedin.com/in/giovana-soldan-oliver](https://www.linkedin.com/in/giovana-soldan-oliver/)
+- **Email:** soldangiovana@gmail.com
